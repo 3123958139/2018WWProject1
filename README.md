@@ -1,2 +1,4 @@
-# 2018WWProject1
-Wolfram Workbench Project 1
+# 具体项目参见分支
+
+- branch1
+
